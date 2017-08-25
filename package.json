@@ -35,7 +35,7 @@
     "es6-promise": "^4.0.2",
     "hashish": "0.0.4",
     "mocha": "^3.0.1",
-    "nyc": "^10.3.0",
+    "nyc": "https://github.com/jBarz/nyc/archive/v11.0.1.zos.tar.gz",
     "rimraf": "^2.5.0",
     "standard": "^8.6.0",
     "standard-version": "^4.2.0",
